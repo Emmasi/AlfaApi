@@ -1,0 +1,21 @@
+# ?? .NET / Visual Studio
+.vs/
+bin/
+obj/
+# ?? Node / React
+node_modules/
+dist/
+.env
+# ?? OS-skräp
+.DS_Store
+Thumbs.db
+# ?? SQL Server-databaser ---------------------------------
+# Enskilda filer
+Data/DataDb.mdf
+Data/DataDb_log.ldf
+
+AzuerFunction/
+AzuerFunctions/
+Domain/
+ 
+ 
